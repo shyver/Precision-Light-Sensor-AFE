@@ -1,0 +1,15 @@
+LTspice 26.0.1 for Windows
+Circuit: E:\abdelwahed\STUDY FOLDER\PCB Design\photo_diode_project\TIA_Simulation.net
+Start Time: Sun Mar 22 13:08:33 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.039 seconds.
+
+Files loaded:
+E:\abdelwahed\STUDY FOLDER\PCB Design\photo_diode_project\TIA_Simulation.net
+C:\Users\21627\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
