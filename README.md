@@ -9,7 +9,7 @@ This repository contains the hardware design files and LTspice simulations for a
 
 Designed as a modular Analog Front-End (AFE), this board converts ambient light intensity into a clean, stable analog voltage (0–3.3V) suitable for direct sampling by microcontrollers (e.g., ESP32, STM32, Arduino) using a Transimpedance Amplifier (TIA) architecture.
 
-*(Insert a screenshot of your 3D PCB or Schematic here)*
+![pcb_3d](./media/pcb_3d_iso.png)
 
 ## ✨ Key Features
 * **Transimpedance Amplifier (TIA):** Converts microscopic photodiode currents into a measurable voltage with a calculated gain of 68kΩ.
