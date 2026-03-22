@@ -1,7 +1,7 @@
 # Precision Photodiode Analog Front-End (AFE)
 
 ![Status: Complete](https://img.shields.io/badge/Status-Complete-success)
-![Hardware: KiCad](https://img.shields.io/badge/Hardware-KiCad_8.0-blue)
+![Hardware: KiCad](https://img.shields.io/badge/Hardware-KiCad_9.0-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 ## 📌 Project Overview
